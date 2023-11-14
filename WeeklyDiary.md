@@ -1,5 +1,30 @@
 ## Week 01 Initial Idea
 
+I want to make a game about run away from the real life.
+Because the character hates the reality, he thinks that reality is not very good.
+So he runs away.
+He comes to a very wonderful world. This world is wonderful, abstract, and different from the real world.
+He walks through four scenes, each with a different style.
+In this world, everything is novel and beautiful, and he is intoxicated in this magical world.
+But at the end of the world, he finds his younger self.
+The elements in these four scenes also correspond to the four ages of his life, even though he is very young. The first scene is when he was eighteen, the second is twelve, the third is six, and the last scene is his infancy.
+So he has never left his own world, and has never successfully escaped from reality.
+
+Regarding the gameplay, I want players to promote the development of the plot by collecting clues, or solving puzzles and taking risks. Maybe the playability of the game will not be particularly high, but the scene must be very strange and beautiful. I wanted to focus on the look and immersion of the scene.
+
+When I saw David Hockney’s exhibition before, there was a sentence that touched me very much. He said: The world is very beautiful if you look at it, but most people don’t look. 
+
+Many people don’t go to see it because they are busy and tired, and they don’t have the opportunity to see what the world looks like, because East Asians are very tired, Chinese are very tired, Chinese people will never stop, and they have a lot of homework when they were young Compared with extracurricular classes, I could only have two days vacations in a month when I was in high school. When I 17 years old, and I could only sleep four hours a day. Many of the students may not have time to see the beauty around them.
+
+At work, most people are faced with working overtime, leaving early and returning late.
+
+So the character of the game is tired of his own life, he is running towards the source of his life, he sees many things that he has never seen before, he sees the beautiful things of the world.
+
+After today, I will think about the details of the game, as well as the way the story is told, the form of interaction and the style of the scene.
+
+
+## Week 02
+
 I asked several of my friends about their personal experiences and added my own ideas to put together this plot.
 They are all children who grew up in a typical Chinese repressive education environment. They have been obedient since childhood, studied hard, and got into good universities. However, the disapproval and blow from their families have deeply affected them. They easily feel inferior and long for love and approval from their parents. But they all have one thing in common: in the past few years in their twenties, their thinking has changed. They were fed up with their previous lives and were influenced by their friends. They gradually changed from low self-esteem to self-confidence and began to pursue themselves. Instead of blindly wanting to please my parents, I began to gradually stay away from my family as I became financially independent, began to think for myself, and began not to blame myself blindly.
 
@@ -7,15 +32,6 @@ Take one of my friends as an example. Her parents divorced very early and she li
 
 And this game describes the process of them escaping from their past lives and transforming. Eventually they will wake up from reality. After escaping, the reality is still reality, but it is a different reality from before: reality is objective, but their thinking and actions are subjective.
 
-
-我询问了几位我的朋友的亲身经历，加上自己的想法整合出了这个剧情。
-她们都是典型的中国打压式教育环境下成长的孩子，从小都很听话，都在好好学习，考上了很好的大学。但是来自家庭的不认可与打击，深深影响着她们，她们很容易自卑，渴望得到爱，渴望得到父母的认可。但她们都有一个共同点：在二十多岁的这几年，她们的思维发生了转变，她们受够了之前的生活，受到了朋友的影响，慢慢从自卑变得自信，开始追求自己想要的东西而不是一味的想要讨好父母，在经济逐渐独立的情况下开始渐渐远离自己的家庭，开始为自己思考，开始不会一味的自责。
-
-以其中一个朋友作为例子，她父母很早就离婚了，她和妈妈一起生活。但是她的妈妈一直会贬低她，还有家庭暴力行为。她从小受尽了言语以及肢体上的暴力，她在高三的时候考试失利，她妈妈就嘲讽她，她又努力了一年后考上了优秀的大学，但是她的妈妈又会说，她都是靠幸运，以及小聪明，学习好也没有什么作用，最终还是要找一个男人结婚。而在大学毕业之后，她的妈妈又想让她回到自己身边，说离家远的孩子都很坏。但是她开始思考自己的自由，以及自己想要什么，正在努力摆脱妈妈。
-
-而这个游戏就在描述这个她们逃离过去生活并转变的过程。最终她们将从现实中醒来，逃离了现实依然是现实，但是是与之前不同的现实：现实是客观的，但是她们的思维与行动是主观的。
-
-## Week 02
 ## Week 03
 ## Week 04
 ## Week 05
