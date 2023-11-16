@@ -40,6 +40,9 @@ I have thought about many research questions.
 ## Week 04
 
 I started to try some music-related things, and it would be great if I could apply it to the game, but it doesn't matter if it doesn't work out in the end.
+
+![QQ图片20231116233646](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/dff8bf85-7b50-471b-b8c0-4706afbab302)
+
 ## Week 05
 
 I thought about some game plots and saw some beautiful pictures that inspired me.
