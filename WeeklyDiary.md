@@ -33,8 +33,18 @@ Take one of my friends as an example. Her parents divorced very early and she li
 And this game describes the process of them escaping from their past lives and transforming. Eventually they will wake up from reality. After escaping, the reality is still reality, but it is a different reality from before: reality is objective, but their thinking and actions are subjective.
 
 ## Week 03
+
+I have thought about many research questions.
+
+
 ## Week 04
+
+I started to try some music-related things, and it would be great if I could apply it to the game, but it doesn't matter if it doesn't work out in the end.
 ## Week 05
+
+I thought about some game plots and saw some beautiful pictures that inspired me.
+
+
 ## Week 06
 ## Week 07
 ## Week 08
