@@ -44,8 +44,67 @@ I started to try some music-related things, and it would be great if I could app
 
 I thought about some game plots and saw some beautiful pictures that inspired me.
 
+Scene 1: 24 years old
+
+The opening of the game: I was sitting in front of the computer, staring at the screen. I was tired and looked out the window (the camera turned to the window and the name of the game appeared).
+I walked out of the company and saw a train between the buildings. I got on the train and started a wonderful journey.
+Talking to people on the train, there is a sea outside the window.
+
+Rabbit: Where are you going?
+Crow: I want to go to Barcelona because I live in the cold north all year round and I want to experience the warm sun.
+Rabbit: I’m going to Hong Kong to eat some delicious food. I heard the milk tea there is delicious.
+Crow: What about you?
+Me: I don’t know, I just, I don’t know why, my heart drove me to get on this train.
+Rabbit: Traveling without a destination is the coolest thing!
+Crow: You must be happy, right? This is an adventure full of unknowns!
+Me: I don’t know. Actually, I’m not very happy right now, but I’m not unhappy either. But I think I still want to relax. Work is really tiring, and I don’t want the same static environment now.
+Crow: You can think nothing, do nothing, just enjoy.
+I'm good.
+
+Scene 2: 16 years old
+
+In summer, cicadas chirp outside the window.
+I ran out of the platform.
+Touch the object, a message will appear, and the scene will change.
+
+The goldfish in the sky was my friend. When it passed away, I was in class at school. I felt very guilty.
+I was halfway through writing in my diary, but my mother found it. She didn't let me continue writing these things, and asked me to focus on studying.
+I bought a small skirt secretly. Because I didn’t abide by the rules of wearing school uniform that day, I was criticized in the notice. My mother said that I was not beautiful, so I shouldn’t focus on these things. I should study well so that I can have a good quality. Character can be lovable.
+There are game consoles scattered throughout the building. I went to play games with the boy I liked. My mother happened to see me and she asked us not to interact with each other anymore.
+I like to draw. I bought a digital tablet with my New Year's money, but my mother scolded me. She said that studying art has no future and is only for students with poor academic performance.
+
+I got an offer from a very good university, but my mother said don't make me proud, it's all just cleverness.
+
+
+
+
+
+Scene 3: 8 years old
+
+The world is more bizarre: toys, cartoons, parents, extracurricular interest classes (ballet)
+
+I loved my little bear very much, but my mother gave it to someone else. I cried all night, but it couldn't relieve my sadness.
+Learning ballet was very tiring, and I wanted to give up, but my mother wouldn't let me. She said she hoped I could become more like a girl, but I am a girl, right?
+Mom used to cry in this chair, she wished I was a boy. She wanted me to be a boy and she wanted me to be a girl, and I didn't understand why.
+One day, my father left my mother. He gave me a beautiful schoolbag, but my mother threw it away.
+
+
+
+The bunny in a tutu, her name is Ruby, and she wants to be the best dancer in the world.
+The dinosaur's name is David and he wants to be a rock star.
+I can fly and the stuffed animals dance around me.
+Walking forward, in front of the mirror, I saw me, the eight-year-old me. I looked at me and reached out to touch.
+
+
+When I woke up, I was still sitting in front of the computer. I turned off the computer and walked out of the company. There were no trains, only bustling streets.
 
 ## Week 06
+
+I started trying to use blender to build some models and build some scenes.
+
+![1](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/4fceec82-bec9-4d84-a005-13f2966ffd40)
+
+
 ## Week 07
 ## Week 08
 ## Week 09
