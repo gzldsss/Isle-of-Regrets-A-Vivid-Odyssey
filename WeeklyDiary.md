@@ -111,6 +111,13 @@ However, I encountered some rendering pipeline problems.
 ![IMG_1136](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/42d5f560-538d-47de-859c-e62a02ec2dd0)
 
 ## Week 08
+
+I gave up on the previous plot because the scenes were too complicated and bothered me so much. 
+So I've been trying out a lot of new scenes this week, hoping to find some inspiration for the visual style of the game. 
+
+![2](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/15021fde-758b-4a2a-a3c0-c5bb19889692)
+
+
 ## Week 09
 ## Week 10
 ## Week 11
