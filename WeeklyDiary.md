@@ -97,8 +97,16 @@ I started trying to use blender to build some models and build some scenes.
 
 ![1](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/4fceec82-bec9-4d84-a005-13f2966ffd40)
 
-
 ## Week 07
+
+The previous scenario wasn’t very ideal and I gave up. I chose to build it directly in unity. 
+
+![IMG_1080](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/ce8224c4-599c-471f-bf0a-4574a860ba91)
+
+However, I encountered some rendering pipeline problems.
+
+![IMG_1136](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/42d5f560-538d-47de-859c-e62a02ec2dd0)
+
 ## Week 08
 ## Week 09
 ## Week 10
