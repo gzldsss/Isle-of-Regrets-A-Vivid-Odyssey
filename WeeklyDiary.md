@@ -44,7 +44,7 @@ I started to try some music-related things, and it would be great if I could app
 
 I thought about some game plots and saw some beautiful pictures that inspired me.
 
-Scene 1: 24 years old
+### Scene 1: 24 years old
 
 The opening of the game: I was sitting in front of the computer, staring at the screen. I was tired and looked out the window (the camera turned to the window and the name of the game appeared).
 I walked out of the company and saw a train between the buildings. I got on the train and started a wonderful journey.
@@ -61,7 +61,7 @@ Me: I don’t know. Actually, I’m not very happy right now, but I’m not unha
 Crow: You can think nothing, do nothing, just enjoy.
 I'm good.
 
-Scene 2: 16 years old
+### Scene 2: 16 years old
 
 In summer, cicadas chirp outside the window.
 I ran out of the platform.
@@ -75,11 +75,7 @@ I like to draw. I bought a digital tablet with my New Year's money, but my mothe
 
 I got an offer from a very good university, but my mother said don't make me proud, it's all just cleverness.
 
-
-
-
-
-Scene 3: 8 years old
+### Scene 3: 8 years old
 
 The world is more bizarre: toys, cartoons, parents, extracurricular interest classes (ballet)
 
@@ -88,13 +84,10 @@ Learning ballet was very tiring, and I wanted to give up, but my mother wouldn't
 Mom used to cry in this chair, she wished I was a boy. She wanted me to be a boy and she wanted me to be a girl, and I didn't understand why.
 One day, my father left my mother. He gave me a beautiful schoolbag, but my mother threw it away.
 
-
-
 The bunny in a tutu, her name is Ruby, and she wants to be the best dancer in the world.
 The dinosaur's name is David and he wants to be a rock star.
 I can fly and the stuffed animals dance around me.
 Walking forward, in front of the mirror, I saw me, the eight-year-old me. I looked at me and reached out to touch.
-
 
 When I woke up, I was still sitting in front of the computer. I turned off the computer and walked out of the company. There were no trains, only bustling streets.
 
