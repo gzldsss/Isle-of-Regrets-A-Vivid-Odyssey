@@ -129,10 +129,54 @@ I started to build a new scene, and I used a silver grainy ground material. And 
 
 ![QQ图片20231120223558](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/a96b5602-d790-489d-926b-6b298b3982ce)
 
-![4](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/dbc153cd-2b18-4cdb-b526-2ddbf811c971)
+![4](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/4ce66225-7649-4dcb-9e05-8380ed7b358a)
 
-Although the scene was not finished, I started writing some code.
+Although the scene was not finished, I started writing some code. This script can control the movement of the character, make the eyes of the portrait emit light after getting close to the portrait in the scene, and change the scene.
 
+
+
+    public GameObject eyelight;
+    public GameObject eyetips;
+    public GameObject whitehead;
+    public float moveSpeed = 1f;
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+          if(Input.GetKey(KeyCode.W))
+        {
+            //Debug.Log(Vector3.Distance( transform.position, whitehead.transform.position));
+            transform.Translate(Vector3.forward * Time.deltaTime * moveSpeed );
+            Camera.main.transform.Translate(Vector3.forward * Time.deltaTime * moveSpeed );
+            if(Vector3.Distance(transform.position, whitehead.transform.position) <=58)
+            {
+                eyetips.SetActive(true);
+            }
+        }
+          if (Input.GetKey(KeyCode.A))
+        {
+            transform.Translate(Vector3.left * Time.deltaTime * moveSpeed);
+            Camera.main.transform.Translate(Vector3.left * Time.deltaTime * moveSpeed);
+        }
+
+        if (Input.GetKeyDown(KeyCode.E))
+        {
+            eyelight.SetActive(true);
+
+            Invoke("ChangeNextScene", 7f);
+        }
+    }
+    
+    void ChangeNextScene()
+    {
+        SceneManager.LoadScene("FishScene");
+    }
+    
 
 
 ## Week 10
