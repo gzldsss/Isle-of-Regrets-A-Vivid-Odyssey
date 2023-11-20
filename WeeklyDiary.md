@@ -179,15 +179,24 @@ Although the scene was not finished, I started writing some code. This script ca
     
 
 
-## Week 10
+## 😈Week 10
 
-My thesis topic changed from how music can improve game immersion to how sound can improve game immersion.
+My thesis topic changed from how music can improve game immersion to how sound can improve game immersion. Ultimately I plan to keep one scene for in-depth research and production.
+This week I played a game: Pentiment.
+This is a very good game, whether it is in terms of plot, art style or music, it is outstanding. I focused on the use of environmental sounds in games and put the results of the research into my paper. I started thinking a lot about the use of sound in my games.
+
+![20231029134737_1](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/9d7d9488-f212-4aad-8396-843e73705d89)
+
+![20231029123821_1](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/edf7829e-da3c-4cc0-a0e0-5f1a88f547df)
+
+![20231029142146_1](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/8fb6d9c5-7aca-4753-baae-e411021543da)
 
 
-## Week 11
-## Week 12
-## Week 13
-## Week 14
-## Week 15
+
+## 😈Week 11
+## 😈Week 12
+## 😈Week 13
+## 😈Week 14
+## 😈Week 15
 
 
