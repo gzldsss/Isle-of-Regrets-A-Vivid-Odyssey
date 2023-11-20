@@ -1,4 +1,4 @@
-## Week 01 Initial Idea
+## 😈Week 01 Initial Idea 
 
 I want to make a game about run away from the real life.
 Because the character hates the reality, he thinks that reality is not very good.
@@ -23,7 +23,7 @@ So the character of the game is tired of his own life, he is running towards the
 After today, I will think about the details of the game, as well as the way the story is told, the form of interaction and the style of the scene.
 
 
-## Week 02
+## 😈Week 02
 
 I asked several of my friends about their personal experiences and added my own ideas to put together this plot.
 They are all children who grew up in a typical Chinese repressive education environment. They have been obedient since childhood, studied hard, and got into good universities. However, the disapproval and blow from their families have deeply affected them. They easily feel inferior and long for love and approval from their parents. But they all have one thing in common: in the past few years in their twenties, their thinking has changed. They were fed up with their previous lives and were influenced by their friends. They gradually changed from low self-esteem to self-confidence and began to pursue themselves. Instead of blindly wanting to please my parents, I began to gradually stay away from my family as I became financially independent, began to think for myself, and began not to blame myself blindly.
@@ -32,20 +32,20 @@ Take one of my friends as an example. Her parents divorced very early and she li
 
 And this game describes the process of them escaping from their past lives and transforming. Eventually they will wake up from reality. After escaping, the reality is still reality, but it is a different reality from before: reality is objective, but their thinking and actions are subjective.
 
-## Week 03
+## 😈Week 03
 
-I have thought about many research questions.
+I have thought about many research questions. The research directions that I am more interested in include game narrative, music in games, and game art style.
+Finally, Mahalia and I chose how to use music to enhance immersion.
 
-
-## Week 04
+## 😈Week 04
 
 I started to try some music-related things, and it would be great if I could apply it to the game, but it doesn't matter if it doesn't work out in the end.
 
 ![QQ图片20231116233646](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/dff8bf85-7b50-471b-b8c0-4706afbab302)
 
-## Week 05
+## 😈Week 05
 
-I thought about some game plots and saw some beautiful pictures that inspired me.
+I thought about some game plots.
 
 ### Scene 1: 24 years old
 
@@ -94,15 +94,18 @@ Walking forward, in front of the mirror, I saw me, the eight-year-old me. I look
 
 When I woke up, I was still sitting in front of the computer. I turned off the computer and walked out of the company. There were no trains, only bustling streets.
 
-## Week 06
+## 😈Week 06
 
 I started trying to use blender to build some models and build some scenes.
 
 ![1](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/4fceec82-bec9-4d84-a005-13f2966ffd40)
 
-## Week 07
+## 😈Week 07
 
 The previous scenario wasn’t very ideal and I gave up. I chose to build it directly in unity. 
+
+![3](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/71ad89d2-3238-4062-8f79-35f6918ef957)
+
 
 ![IMG_1080](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/ce8224c4-599c-471f-bf0a-4574a860ba91)
 
@@ -110,16 +113,33 @@ However, I encountered some rendering pipeline problems.
 
 ![IMG_1136](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/42d5f560-538d-47de-859c-e62a02ec2dd0)
 
-## Week 08
+## 😈Week 08
 
 I gave up on the previous plot because the scenes were too complicated and bothered me so much. 
+I chose to build my own scenes because I think the scenes I built better express my ideas.
 So I've been trying out a lot of new scenes this week, hoping to find some inspiration for the visual style of the game. 
 
 ![2](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/15021fde-758b-4a2a-a3c0-c5bb19889692)
 
 
-## Week 09
+## 😈Week 09
+
+Ultimately none of the scenes satisfied me.
+I started to build a new scene, and I used a silver grainy ground material. And a lot of mushrooms are used. Working hard to build TV.
+
+![QQ图片20231120223558](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/a96b5602-d790-489d-926b-6b298b3982ce)
+
+![4](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/dbc153cd-2b18-4cdb-b526-2ddbf811c971)
+
+Although the scene was not finished, I started writing some code.
+
+
+
 ## Week 10
+
+My thesis topic changed from how music can improve game immersion to how sound can improve game immersion.
+
+
 ## Week 11
 ## Week 12
 ## Week 13
