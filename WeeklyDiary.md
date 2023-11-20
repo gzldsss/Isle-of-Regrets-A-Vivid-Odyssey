@@ -106,9 +106,6 @@ The previous scenario wasn’t very ideal and I gave up. I chose to build it dir
 
 ![3](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/71ad89d2-3238-4062-8f79-35f6918ef957)
 
-
-![IMG_1080](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/ce8224c4-599c-471f-bf0a-4574a860ba91)
-
 However, I encountered some rendering pipeline problems.
 
 ![IMG_1136](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/42d5f560-538d-47de-859c-e62a02ec2dd0)
@@ -128,8 +125,6 @@ Ultimately none of the scenes satisfied me.
 I started to build a new scene, and I used a silver grainy ground material. And a lot of mushrooms are used. Working hard to build TV.
 
 ![QQ图片20231120223558](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/a96b5602-d790-489d-926b-6b298b3982ce)
-
-![4](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/4ce66225-7649-4dcb-9e05-8380ed7b358a)
 
 Although the scene was not finished, I started writing some code. This script can control the movement of the character, make the eyes of the portrait emit light after getting close to the portrait in the scene, and change the scene.
 
