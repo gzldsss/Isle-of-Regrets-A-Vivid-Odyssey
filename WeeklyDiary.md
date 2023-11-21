@@ -105,6 +105,7 @@ I started trying to use blender to build some models and build some scenes.
 The previous scenario wasn’t very ideal and I gave up. I chose to build it directly in unity. 
 
 ![3](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/71ad89d2-3238-4062-8f79-35f6918ef957)
+![1](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/ce222cf7-42c6-41f5-8c8f-274e4a277ef0)
 
 However, I encountered some rendering pipeline problems.
 
@@ -186,9 +187,13 @@ This is a very good game, whether it is in terms of plot, art style or music, it
 
 ![20231029142146_1](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/8fb6d9c5-7aca-4753-baae-e411021543da)
 
-
-
 ## 😈Week 11
+
+I wanted to combine visuals with sound, so I tried making the particles flash to the rhythm of the music. I wanted to create a shiny effect, like the sequins on the dancers on stage. Through this visual effect, I want to create a dreamy feeling, and then flashing with the music, it can give players a stronger impact and allow players to enter the game more quickly.
+
+<img width="1000" alt="01" src="https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/5506da35-eb5d-46ad-b8c6-3f2bd1df22df">
+
+
 ## 😈Week 12
 ## 😈Week 13
 ## 😈Week 14
