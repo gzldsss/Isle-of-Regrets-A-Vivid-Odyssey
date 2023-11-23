@@ -19,10 +19,20 @@ Now I've grown, yet memories linger in my mind, Uncertain when I'll escape, but 
 
 ## Introduction
 >I used Unity to create this game and connected it to an Xbox Controller for player interaction. There are six islands in the world, and voices can be collected on each island. There are many objects that can be explored in the game, both in terms of hearing, sight, and player interaction.
+>
+>Players will hear different sounds after approaching some different objects, such as TVs, goldfish, hands, sea plants, etc., and will have different feedback after interaction. The main feedback is to display text after interaction, accompanied by The sound of writing speaks to the player like a story. All texts in the game show 'my' childhood to players, and players can explore 'my' inner world through these texts.
 
 ![5](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/9b952b11-39e4-4b36-808d-68bc3a18f5ed)
 
-![6](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/ca0e601c-2930-4ffe-96c4-2ac98deb5a35)
+![10](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/bdb43ef4-57e2-463b-b971-d1a48728d0a0)
+
+![11](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/e1aebfb6-340b-4c98-8975-6a2a3e259e9d)
+
+>When the player gets close to some marine plants, chaos will occur. The player will hear strong tinnitus and the vision will become distorted. This also implies that the world in the game is false: this is not a real world.
+
+<img width="1045" alt="12" src="https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/03dcf788-c87c-41e5-8265-526ec5121d4d">
+
+
 
 
 
