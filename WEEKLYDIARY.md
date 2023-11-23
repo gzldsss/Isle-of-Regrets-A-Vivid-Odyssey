@@ -22,7 +22,6 @@ So the character of the game is tired of his own life, he is running towards the
 
 After today, I will think about the details of the game, as well as the way the story is told, the form of interaction and the style of the scene.
 
-
 ## 😈Week 02
 
 I asked several of my friends about their personal experiences and added my own ideas to put together this plot.
@@ -36,14 +35,11 @@ And this game describes the process of them escaping from their past lives and t
 
 I have thought about many research questions. The research directions that I am more interested in include game narrative, music in games, and game art style.
 Finally, Mahalia and I chose how to use music to enhance immersion.
-
-## 😈Week 04
-
-I started to try some music-related things, and it would be great if I could apply it to the game, but it doesn't matter if it doesn't work out in the end.
+So I started to try some music-related things, and it would be great if I could apply it to the game, but it doesn't matter if it doesn't work out in the end.
 
 ![QQ图片20231116233646](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/dff8bf85-7b50-471b-b8c0-4706afbab302)
 
-## 😈Week 05
+## 😈Week 04
 
 I thought about some game plots.
 
@@ -94,23 +90,20 @@ Walking forward, in front of the mirror, I saw me, the eight-year-old me. I look
 
 When I woke up, I was still sitting in front of the computer. I turned off the computer and walked out of the company. There were no trains, only bustling streets.
 
-## 😈Week 06
+## 😈Week 05
 
 I started trying to use blender to build some models and build some scenes.
 
-![1](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/4fceec82-bec9-4d84-a005-13f2966ffd40)
+![1](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/5408bda3-4c44-4ee7-bb09-b3c6fc77f7cd)
 
-## 😈Week 07
 
-The previous scenario wasn’t very ideal and I gave up. I chose to build it directly in unity. 
+## 😈Week 06
 
-![3](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/71ad89d2-3238-4062-8f79-35f6918ef957)
-
-However, I encountered some rendering pipeline problems.
+The previous scenario wasn’t very ideal and I gave up. I chose to build it directly in unity. However, I encountered some rendering pipeline problems.
 
 ![IMG_1136](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/42d5f560-538d-47de-859c-e62a02ec2dd0)
 
-## 😈Week 08
+## 😈Week 07
 
 I gave up on the previous plot because the scenes were too complicated and bothered me so much. 
 I chose to build my own scenes because I think the scenes I built better express my ideas.
@@ -119,7 +112,7 @@ So I've been trying out a lot of new scenes this week, hoping to find some inspi
 ![2](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/15021fde-758b-4a2a-a3c0-c5bb19889692)
 
 
-## 😈Week 09
+## 😈Week 08
 
 Ultimately none of the scenes satisfied me.
 I started to build a new scene, and I used a silver grainy ground material. And a lot of mushrooms are used. Working hard to build TV.
@@ -174,7 +167,7 @@ Although the scene was not finished, I started writing some code. This script ca
     
 
 
-## 😈Week 10
+## 😈Week 09
 
 My thesis topic changed from how music can improve game immersion to how sound can improve game immersion. Ultimately I plan to keep one scene for in-depth research and production.
 This week I played a game: Pentiment.
@@ -186,16 +179,16 @@ This is a very good game, whether it is in terms of plot, art style or music, it
 
 ![20231029142146_1](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/8fb6d9c5-7aca-4753-baae-e411021543da)
 
-## 😈Week 11
+## 😈Week 10
 
 I wanted to combine visuals with sound, so I tried making the particles flash to the rhythm of the music. I wanted to create a shiny effect, like the sequins on the dancers on stage. Through this visual effect, I want to create a dreamy feeling, and then flashing with the music, it can give players a stronger impact and allow players to enter the game more quickly.
 
 <img width="1000" alt="01" src="https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/5506da35-eb5d-46ad-b8c6-3f2bd1df22df">
 
 
+## 😈Week 11
 ## 😈Week 12
 ## 😈Week 13
 ## 😈Week 14
-## 😈Week 15
 
 
