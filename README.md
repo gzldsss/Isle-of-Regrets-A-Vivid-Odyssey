@@ -30,7 +30,9 @@ Now I've grown, yet memories linger in my mind, Uncertain when I'll escape, but 
 
 <img width="1045" alt="12" src="https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/03dcf788-c87c-41e5-8265-526ec5121d4d">
 
->
+## Video
+
+Link:
 
 
 
