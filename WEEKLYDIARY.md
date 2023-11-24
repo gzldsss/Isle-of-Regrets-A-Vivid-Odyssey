@@ -1,3 +1,5 @@
+<img width="1280" alt="2" src="https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/8c1f185b-477d-4aa7-a7c8-f85c69e2d690">
+
 ## 😈Week 01 Initial Idea 
 
 I want to make a game about run away from the real life.
@@ -168,7 +170,7 @@ Although the scene was not finished, I started writing some code. This script ca
     
 
 
-## 😈Week 09
+## 😈Week 09 Pentiment and XBox Controller
 
 My thesis topic changed from how music can improve game immersion to how sound can improve game immersion. Ultimately I plan to keep one scene for in-depth research and production.
 This week I played a game: Pentiment.
@@ -180,7 +182,102 @@ This is a very good game, whether it is in terms of plot, art style or music, it
 
 ![20231029142146_1](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/8fb6d9c5-7aca-4753-baae-e411021543da)
 
-## 😈Week 10
+After a long period of hard work, I finally let the Xbox Controller control player interaction.
+
+
+    public Transform cameraTransform; // 指向相机的Transform
+
+    private Vector2 moveInput;
+    private Vector2 cameraInput;
+    private Vector3 playerVelocity;
+
+    private InputAction moveAction;
+    private InputAction cameraAction;
+
+    private CharacterController characterController;
+    private float cameraVerticalAngle = 0f;
+    public bool IsOnBoat { get; set; } = false;
+
+    private void Awake()
+    {
+        var gameplayController = new GameplayController();
+
+        moveAction = gameplayController.GamePlay.Move;
+        moveAction.Enable();
+        moveAction.performed += ctx => moveInput = ctx.ReadValue<Vector2>();
+
+        cameraAction = gameplayController.GamePlay.Camera;
+        cameraAction.Enable();
+        cameraAction.performed += ctx => cameraInput = ctx.ReadValue<Vector2>();
+
+        characterController = GetComponent<CharacterController>();
+    }
+
+    private void Update()
+    {
+
+        // 处理移动 movement
+        Vector3 move = new Vector3(moveInput.x, 0, moveInput.y);
+        move = transform.TransformDirection(move);
+
+        // 如果角色在地面，则重置Y方向速度
+        // If the character is on the ground, reset the Y direction speed
+        if (characterController.isGrounded && playerVelocity.y < 0)
+        {
+        playerVelocity.y = 0f;
+        }
+
+        // 打印调试信息 Debugging
+        Debug.Log("Is Grounded: " + characterController.isGrounded);
+        Debug.Log("Vertical Velocity: " + playerVelocity.y);
+
+        //应用重力 Apply gravity
+        playerVelocity.y -= gravity * Time.deltaTime;
+        //合并水平和垂直移动 Combine horizontal and vertical movement
+        Vector3 combinedMovement = move * moveSpeed + playerVelocity;
+
+        //Player move
+        characterController.Move(move * moveSpeed * Time.deltaTime);
+
+        // 处理水平旋转 Handle horizontal rotation 
+        transform.Rotate(Vector3.up * cameraInput.x * sensitivity * Time.deltaTime);
+
+       // 处理垂直旋转 Handle vertical rotation
+       cameraVerticalAngle -= cameraInput.y * sensitivity * Time.deltaTime;
+       cameraVerticalAngle = Mathf.Clamp(cameraVerticalAngle, -90f, 90f); // 限制垂直角度 Limit vertical angle
+       cameraTransform.localEulerAngles = new Vector3(cameraVerticalAngle, 0, 0);
+
+        if (characterController.isGrounded)
+        {
+            if (moveInput.sqrMagnitude > 0.1f)
+            { // 角色正在移动 The character is moving
+              bobbingCounter += Time.deltaTime * bobFrequency;
+              float horizontalBob = Mathf.Sin(bobbingCounter) * bobHorizontalAmplitude;
+              float verticalBob = Mathf.Cos(bobbingCounter * 2) * bobVerticalAmplitude;
+
+              // 添加颠簸效果到摄像机位置 Add bump effect to camera position
+              cameraTransform.localPosition = new Vector3(horizontalBob, verticalBob, cameraTransform.localPosition.z);
+            }
+            else
+            {
+              // 角色静止时，重置摄像机位置 When the character is stationary, reset the camera position
+              cameraTransform.localPosition = new Vector3(0, cameraTransform.localPosition.y, cameraTransform.localPosition.z);
+            }
+        }
+
+    }
+
+I use the Input System to control the Xbox Controller. I implemented the basic motion control of a game character, including movement, jumping, and camera rotation.
+
+<img width="1000" alt="10" src="https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/c9644c49-8fab-4945-8b2f-e544ab408766">
+
+It is particularly important to set the action well. This is the reason why I have been unsuccessful.
+
+
+
+
+
+## 😈Week 10 Particles and Fish
 
 I wanted to combine visuals with sound, so I tried making the particles flash to the rhythm of the music. I wanted to create a shiny effect, like the sequins on the dancers on stage. Through this visual effect, I want to create a dreamy feeling, and then flashing with the music, it can give players a stronger impact and allow players to enter the game more quickly.
 
@@ -188,8 +285,147 @@ I wanted to combine visuals with sound, so I tried making the particles flash to
 
 
 
+    void Start()
+    {
+        particles = GetComponent<ParticleSystem>();
+        emissionModule = particles.emission;
+        if (audioSource == null)
+        {
+            audioSource = FindObjectOfType<AudioSource>();
+        }
+    }
 
-## 😈Week 11
+    void Update()
+    {
+        
+        float[] spectrum = new float[256];
+        // 获取当前音频的频谱数据。
+        // Get the spectrum data of the current audio.
+        audioSource.GetSpectrumData(spectrum, 0, FFTWindow.Rectangular);
+
+        float intensity = 0f;
+        foreach (var value in spectrum)
+        {
+            intensity += value;
+        }
+
+        // 音频的强度乘以一个系数，得到粒子系统的发生率，应用到粒子系统的发射模块上，从而使粒子的发射率与音频的强度成正比。
+        // The intensity of the audio is multiplied by a coefficient to obtain the occurrence rate of the particle system
+        // which is applied to the emission module of the particle system
+        // So that the emission rate of the particles is proportional to the intensity of the audio
+        float emissionRate = intensity * 5000f;
+
+        // 应用到粒子系统的发射率
+        emissionModule.rateOverTime = emissionRate;
+    }
+    
+First, control the emission frequency of particles, obtain audio data, and calculate the frequency distribution of the audio signal. Multiply the intensity of the audio by 5000 to get the particle system's emissivity. It then applies this calculated emissivity to the particle system's emission module, making the particle's emissivity proportional to the intensity of the audio. The larger this number is, the more obvious the particle changes will be. So when the music frequency is the highest, the particles in the sky will increase and become denser, and when the music frequency decreases, the density of particles in the sky will decrease.
+
+![23](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/a08bfdc6-eed0-4300-9c7d-08dbd1b855a1)
+
+The changes in particles are shown in the figure. Taking into account the performance of the computer itself and the relatively soothing music, there will not be too obvious differences before and after the particle changes, so the particles will be displayed in front of the players in a soft visual form.
+
+
+![12](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/c0f7cccd-0880-44bf-ad2f-ed0527fec8a1)
+
+
+I imported a goldfish model with skeletal animation and set the animation to loop so that the goldfish can get continuous movement. Let the goldfish move according to the way points and add 3D sounds to the goldfish. When the player is close to the goldfish, they will hear the sound of the goldfish blowing bubbles, making the goldfish in the game more realistic and increasing immersion and authenticity. . At the same time, I adjusted the material of the goldfish so that the visual effects of the shader match the rhythm of the background music, so that the goldfish can better integrate with the scene, thereby increasing its connection with the sound. Similarly, like goldfish, many objects in the world have their own sounds, which allows players to experience a more vivid virtual world.
+
+
+    void Update()
+    {
+        if (Vector3.Distance(transform.position, waypoints[currentWaypointIndex].position) < 0.1f)
+        {
+            currentWaypointIndex++;
+            if (currentWaypointIndex >= waypoints.Length)
+            {
+                currentWaypointIndex = 0;
+            }
+        }
+
+        Vector3 direction = waypoints[currentWaypointIndex].position - transform.position;
+        transform.rotation = Quaternion.Slerp(transform.rotation, Quaternion.LookRotation(direction), Time.deltaTime * speed);
+        transform.position = Vector3.MoveTowards(transform.position, waypoints[currentWaypointIndex].position, Time.deltaTime * speed);
+    }
+
+Create an empty object and set its name to Waypoint. Drag the Waypoint's position in the scene to set the target for the goldfish to swim. Each goldfish is set with three Waypoints, distinguished by serial numbers. Use scripts to control the movement of the goldfish, and pass through all the set Waypoints in order. The goldfish can continue to move with action animation. Goldfish are swimming in the sky. At the same time, I added the SD sound of bubbles to the goldfish and set the range of the sound so that players can hear it when they get close.
+
+
+## 😈Week 11 Peom and Scene
+
+I wrote a little poem to serve as the narration for the game.
+
+>欢迎你，我的朋友。
+>欢迎您来到我的世界。
+>你可以看，你可以听。
+
+>金鱼在天空中游泳。
+>灰尘在空气中跳舞。
+
+>你可以寻找关于我的声音。
+
+>也许有很多东西不能触碰。
+>但是，你可以继续尝试。
+
+>也许你会发现一些文字，
+>这大概是十几年前我的心声，
+>有些我记不得了，
+>但是现在想来我的心脏还会隐隐作痛。
+
+>有的时候我只是想，
+>我和我的父母一起看电视。
+>这对你也许不是什么难事，
+>但对我来说，却是个奢望。
+
+>有的时候我只是想，
+>让父母多拉拉我的手。
+>但他们更希望我快速成长。
+
+>有时候我想和我的金鱼待在一起
+>却因为整天的课程
+>没能见到它最后一面
+>但是你看，它在这里
+>它一直在这里等我
+
+>有的时候我只是想
+>拥有自己的时间
+>拥有自己想做的事
+
+>也有的时候
+>我希望娱乐不是一种妄想
+
+>我现在已经长大
+>但回忆还在我的脑海
+>我不知道什么时候能够逃离
+>但我会一直努力
+>美好的日子还在等我
+>我想做我想做的事
+>我想做让我快乐的事
+
+Then I used chatgpt to help me translate it into poetic English.
+
+>Welcome, my friend, To the world I extend. Behold and listen with care,
+>Goldfish in the sky do swim, Dust in the air, a dance so grim.
+>Seek the echoes of my voice, Hidden treasures, not by choice.
+>Touch may elude many a thing, Yet in the attempt, joy it may bring.
+>Perhaps you'll find words, a whisper of the past, Echoes of a heartache that forever last. Forgotten fragments, yet a throbbing heart remains, In remembrance, a subtle pain sustains.
+>Sometimes, I merely wish, To watch TV with parents, a simple dish. A trivial task for you, perhaps, But for me, a luxury that elapses.
+>Sometimes, I just yearn, For parents' hands, more time to earn. Yet they wish for my swift flight, Growing up, out of sight.
+>Sometimes, I long to be, With my goldfish, just him and me. Missed the final goodbye due to daylong tasks, But look, here it basks, Always waiting, in this place, for me.
+>Sometimes, I just desire, Time of my own, to aspire. To do what I wish, in my own pace,
+>And sometimes, I hope entertainment isn't just a chase, A fanciful dream in a fleeting space.
+>Now I've grown, yet memories linger in my mind, Uncertain when I'll escape, but striving I will find. Brighter days await, a promise yet to see, I long to do what brings joy to me. To chase what I desire, in happiness to bask, Embracing life's journey, in this quest I steadfastly task.
+
+I finished the scenes.
+
+![65](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/f0c09ba0-3af2-479e-a1bd-7314860f5453)
+
+In the scene, I used a lot of mushrooms as the main plant, which represent illusions.
+
+<img width="1000" alt="48" src="https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/d8ddb29a-bc44-43ce-b707-de433b5e9635">
+
+
+
 ## 😈Week 12
 ## 😈Week 13
 ## 😈Week 14
