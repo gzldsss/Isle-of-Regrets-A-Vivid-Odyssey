@@ -36,6 +36,7 @@ And this game describes the process of them escaping from their past lives and t
 I have thought about many research questions. The research directions that I am more interested in include game narrative, music in games, and game art style.
 Finally, Mahalia and I chose how to use music to enhance immersion.
 So I started to try some music-related things, and it would be great if I could apply it to the game, but it doesn't matter if it doesn't work out in the end.
+I used GarageBand to create some sound effects for the game, and some of the synths had really cool effects.
 
 ![QQ图片20231116233646](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/dff8bf85-7b50-471b-b8c0-4706afbab302)
 
@@ -184,6 +185,8 @@ This is a very good game, whether it is in terms of plot, art style or music, it
 I wanted to combine visuals with sound, so I tried making the particles flash to the rhythm of the music. I wanted to create a shiny effect, like the sequins on the dancers on stage. Through this visual effect, I want to create a dreamy feeling, and then flashing with the music, it can give players a stronger impact and allow players to enter the game more quickly.
 
 <img width="1000" alt="01" src="https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/5506da35-eb5d-46ad-b8c6-3f2bd1df22df">
+
+
 
 
 ## 😈Week 11
