@@ -108,12 +108,10 @@ I researched the background music of Hollow Knight and Journey， I have wrote i
 
 ## 😈Week 06
 
-The previous scenario wasn’t very ideal and I gave up. I chose to build it directly in unity. However, I encountered some rendering pipeline problems.
 
 ![IMG_1136](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/42d5f560-538d-47de-859c-e62a02ec2dd0)
 
-At the same time I was looking for a style that I liked. I found some illustrations from Tano Bonfanti and I love the colors.
-Tano Bonfanti: https://www.behance.net/tanoilustra
+The previous scenario wasn’t very ideal and I gave up. I chose to build it directly in unity. However, I encountered some rendering pipeline problems.
 
 <img width="1046" alt="屏幕截图 2023-11-24 174249" src="https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/6b432561-6f66-4179-9041-4caf0bf5bb0c">
 
@@ -121,14 +119,18 @@ Tano Bonfanti: https://www.behance.net/tanoilustra
 
 <img width="1045" alt="屏幕截图 2023-11-24 174446" src="https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/64d7e383-3813-4c10-bde3-d752ce22f85a">
 
-I also looked to the work of Ryoji Ikeda, an artist I like very much.
-Ryoji Ikeda: https://www.youtube.com/@ryojiikedastudio
+At the same time I was looking for a style that I liked. I found some illustrations from Tano Bonfanti and I love the colors.
+Tano Bonfanti: https://www.behance.net/tanoilustra
 
 <img width="1280" alt="屏幕截图 2023-11-24 174650" src="https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/b4ec3e56-4108-4029-a798-7622338ac2c4">
 
 ![portrait-1080x1080 jpg transform apfvp](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/2cece129-139b-4929-aa86-04e79aee0f11)
 
-<img width="885" alt="屏幕截图 2023-11-24 175853" src="https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/95b37187-36f3-4c8b-a925-a25bcdd3d222">
+
+I also looked to the work of Ryoji Ikeda, an artist I like very much.
+Ryoji Ikeda: https://www.youtube.com/@ryojiikedastudio
+
+<img width="1100" alt="屏幕截图 2023-11-24 175853" src="https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/95b37187-36f3-4c8b-a925-a25bcdd3d222">
 
 https://www.behance.net/gallery/164970309/IMAGINE
 
@@ -492,8 +494,16 @@ Through this string of code, I let the player get close to some objects, and the
 
 ## 😈Week 13
 
+<img width="1100" alt="45" src="https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/47b6bfdd-3b62-4ab6-8e99-f92efb11c149">
+
+<img width="1277" alt="4" src="https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/f4c14cb1-8704-44cd-b94c-5fa33a326b6f">
+
+When the player is close to some objects, the player can see the interactive prompt: Press B, and then when the player presses Press B, the text will be displayed on the screen. And play the sound of writing on paper when the text appears.
+
+
 
 
 ## 😈Week 14
 
+I optimized the game and fixed some sound confusion issues. I asked a friend to play this game, and they all gave me a lot of advice, which I recorded in my thesis.
 
