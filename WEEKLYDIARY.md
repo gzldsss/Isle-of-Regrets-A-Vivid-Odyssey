@@ -93,11 +93,17 @@ Walking forward, in front of the mirror, I saw me, the eight-year-old me. I look
 
 When I woke up, I was still sitting in front of the computer. I turned off the computer and walked out of the company. There were no trains, only bustling streets.
 
-## 😈Week 05
+## 😈Week 05 Build Scenes and Hollow Knight
 
 I started trying to use blender to build some models and build some scenes.
 
 ![1](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/5408bda3-4c44-4ee7-bb09-b3c6fc77f7cd)
+
+I researched the background music of Hollow Knight and Journey， I have wrote it in my paper.
+
+![54](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/c7acba35-bfde-47cd-9a24-66285d0c60c7)
+
+<img width="1100" alt="55" src="https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/3cc816bb-9e92-4bcc-aa7d-25b8e5a6459c">
 
 
 ## 😈Week 06
@@ -106,7 +112,25 @@ The previous scenario wasn’t very ideal and I gave up. I chose to build it dir
 
 ![IMG_1136](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/42d5f560-538d-47de-859c-e62a02ec2dd0)
 
-At the same time I was looking for a style that I liked.
+At the same time I was looking for a style that I liked. I found some illustrations from Tano Bonfanti and I love the colors.
+Tano Bonfanti: https://www.behance.net/tanoilustra
+
+<img width="1046" alt="屏幕截图 2023-11-24 174249" src="https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/6b432561-6f66-4179-9041-4caf0bf5bb0c">
+
+<img width="1049" alt="屏幕截图 2023-11-24 174310" src="https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/0813b96c-149d-4735-a42f-81b0b24f2a1e">
+
+<img width="1045" alt="屏幕截图 2023-11-24 174446" src="https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/64d7e383-3813-4c10-bde3-d752ce22f85a">
+
+I also looked to the work of Ryoji Ikeda, an artist I like very much.
+Ryoji Ikeda: https://www.youtube.com/@ryojiikedastudio
+
+<img width="1280" alt="屏幕截图 2023-11-24 174650" src="https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/b4ec3e56-4108-4029-a798-7622338ac2c4">
+
+![portrait-1080x1080 jpg transform apfvp](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/2cece129-139b-4929-aa86-04e79aee0f11)
+
+<img width="885" alt="屏幕截图 2023-11-24 175853" src="https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/95b37187-36f3-4c8b-a925-a25bcdd3d222">
+
+https://www.behance.net/gallery/164970309/IMAGINE
 
 ## 😈Week 07
 
