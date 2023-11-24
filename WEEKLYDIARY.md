@@ -442,8 +442,34 @@ My plot and gameplay changed over time, and eventually I abandoned other scenes,
 
 ## 😈Week 12
 
+    private Renderer objRenderer;
+    private Material originalMaterial; // 保存原始材质
+
+    void Start()
+    {
+        objRenderer = GetComponent<Renderer>();
+        originalMaterial = objRenderer.material; // 保存原始材质
+    }
+
+    void OnCollisionEnter(Collision collision)
+    {
+        Debug.Log("检测到碰撞: " + collision.gameObject.name); // 输出碰撞的物体名称
+
+        if (collision.gameObject.CompareTag("Player")) // 检查碰撞的是否为玩家
+        {
+            objRenderer.material = newMaterial; // 更换为新材质
+        }
+    }
+
+Through this string of code, I let the player get close to some objects, and the objects will change their materials and add sounds to the objects. When the player leaves, the object will return to its original state and will no longer make any noise.
+
+![66](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/15673f16-5d1f-4816-b849-5752aef38554)
+
 
 ## 😈Week 13
+
+
+
 ## 😈Week 14
 
 
