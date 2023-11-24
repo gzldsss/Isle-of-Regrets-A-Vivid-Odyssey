@@ -106,6 +106,8 @@ The previous scenario wasn’t very ideal and I gave up. I chose to build it dir
 
 ![IMG_1136](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/42d5f560-538d-47de-859c-e62a02ec2dd0)
 
+At the same time I was looking for a style that I liked.
+
 ## 😈Week 07
 
 I gave up on the previous plot because the scenes were too complicated and bothered me so much. 
@@ -325,9 +327,7 @@ First, control the emission frequency of particles, obtain audio data, and calcu
 
 The changes in particles are shown in the figure. Taking into account the performance of the computer itself and the relatively soothing music, there will not be too obvious differences before and after the particle changes, so the particles will be displayed in front of the players in a soft visual form.
 
-
-![12](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/c0f7cccd-0880-44bf-ad2f-ed0527fec8a1)
-
+![12](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/34ae8f95-1046-411c-a078-e7738fafe45b)
 
 I imported a goldfish model with skeletal animation and set the animation to loop so that the goldfish can get continuous movement. Let the goldfish move according to the way points and add 3D sounds to the goldfish. When the player is close to the goldfish, they will hear the sound of the goldfish blowing bubbles, making the goldfish in the game more realistic and increasing immersion and authenticity. . At the same time, I adjusted the material of the goldfish so that the visual effects of the shader match the rhythm of the background music, so that the goldfish can better integrate with the scene, thereby increasing its connection with the sound. Similarly, like goldfish, many objects in the world have their own sounds, which allows players to experience a more vivid virtual world.
 
@@ -422,11 +422,27 @@ I finished the scenes.
 
 In the scene, I used a lot of mushrooms as the main plant, which represent illusions.
 
-<img width="1000" alt="48" src="https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/d8ddb29a-bc44-43ce-b707-de433b5e9635">
+<img width="1100" alt="48" src="https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/d8ddb29a-bc44-43ce-b707-de433b5e9635">
 
+>On the first island, players can see many TV sets. When the protagonist was a child, she really wanted to watch TV with her parents, but things went counterproductive. This was one of her regrets as a child. The television represents companionship, and the protagonist lacked the presence of his parents during his childhood.
+<img width="1100" alt="47" src="https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/141fe3ae-c95d-43b3-9949-18fc80fdeaab">
 
+>There are many hands on the second island, and the hands are for comfort and caressing. The protagonist hopes to get more care, praise, and comfort from his parents, so the palm is used as the main body to express the plot.
+<img width="1100" alt="49" src="https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/25ecedd6-761a-40a6-9ac3-751dccd6b12d">
+
+>Fish Island uses fish as a metaphor for the protagonist's friends and playmates, and tells the story of the relationship between the protagonist and his friends. Due to some things, he cannot meet his friends and is separated forever, which makes the protagonist very painful.
+<img width="1100" alt="50" src="https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/0c3d9733-0bf1-4f60-bd6c-12d69059495e">
+
+>The fourth island uses a cage as its theme, telling the story of the protagonist who wanted to be able to do something he liked when he was a child, instead of just being obedient.
+<img width="1100" alt="51" src="https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/1a129cfb-6000-43e8-8829-00fd2fcf3841">
+
+>There is a carousel standing on the fifth island, which is a metaphor for the author's lack of entertainment activities when he was a child, and the carousel means relaxation, leisure and entertainment, which is also the protagonist's yearning.
+
+My plot and gameplay changed over time, and eventually I abandoned other scenes, leaving only a landscape for players to explore at will in the world.
 
 ## 😈Week 12
+
+
 ## 😈Week 13
 ## 😈Week 14
 
