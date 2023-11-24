@@ -32,7 +32,13 @@ Now I've grown, yet memories linger in my mind, Uncertain when I'll escape, but 
 
 ## Video
 
-**Link:**
+**Link:https://youtu.be/OtEOtlEme1o**
+
+## Reference
+
+In the game I use a lot of resources from the Unity Asset Store:
+
+
 
 
 
