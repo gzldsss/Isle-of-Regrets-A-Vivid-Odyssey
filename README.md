@@ -18,7 +18,8 @@ Now I've grown, yet memories linger in my mind, Uncertain when I'll escape, but 
 <img width="1275" alt="1" src="https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/404f2528-a0f8-4891-9789-d60a56125a3e">
 
 ## Introduction
->I used Unity to create this game and connected it to an Xbox Controller for player interaction. There are six islands in the world, and voices can be collected on each island. There are many objects that can be explored in the game, both in terms of hearing, sight, and player interaction. As long as players carefully experience the game, they will find that everything in this world is related to sound, including the dust in the air that will flash with the background music. Players will hear different sounds after approaching some different objects, such as televisions, goldfish, hands, sea plants, etc., and will have different feedback after interaction. The main feedback is to display text after interaction, accompanied by The sound of writing speaks to the player like a story.
+>I used Unity to create this game and connected it to an Xbox Controller for player interaction. There are five islands in the world, and voices can be collected on each island.
+>There are many objects that can be explored in the game, both in terms of hearing, sight, and player interaction. As long as players carefully experience the game, they will find that everything in this world is related to sound, including the dust in the air that will flash with the background music. Players will hear different sounds after approaching some different objects, such as televisions, goldfish, hands, sea plants, etc., and will have different feedback after interaction. The main feedback is to display text after interaction, accompanied by The sound of writing speaks to the player like a story.
 
 ![5](https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/9b952b11-39e4-4b36-808d-68bc3a18f5ed)
 
@@ -37,6 +38,10 @@ Now I've grown, yet memories linger in my mind, Uncertain when I'll escape, but 
 ## Reference
 
 In the game I use a lot of resources from the Unity Asset Store:
+
+https://assetstore.unity.com/packages/3d/props/interior/soviet-television-electron-718-125030
+https://assetstore.unity.com/packages/vfx/shaders/hologram-effect-shader-125684
+https://assetstore.unity.com/packages/3d/environments/landscapes/lunar-landscape-3d-132614
 
 
 
