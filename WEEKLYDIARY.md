@@ -500,6 +500,10 @@ Through this string of code, I let the player get close to some objects, and the
 
 When the player is close to some objects, the player can see the interactive prompt: Press B, and then when the player presses Press B, the text will be displayed on the screen. And play the sound of writing on paper when the text appears.
 
+<img width="1100" alt="Weixin Image_20231119232856" src="https://github.com/gzldsss/Isle-of-Regrets-A-Vivid-Odyssey/assets/118484191/33261279-85ab-461f-bce6-2f37d3fdd8ce">
+
+I also made the carousel spin, which was a huge undertaking because my model of the carousel was not very accurate and required adjustments to the model.
+
 
 
 
