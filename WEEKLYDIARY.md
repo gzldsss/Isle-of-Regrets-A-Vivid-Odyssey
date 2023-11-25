@@ -519,9 +519,9 @@ When the player is close to some objects, the player can see the interactive pro
 I also made the carousel spin, which was a huge undertaking because my model of the carousel was not very accurate and required adjustments to the model.
 
 
-
-
 ## 😈Week 14
 
-I optimized the game and fixed some sound confusion issues. I asked a friend to play this game, and they all gave me a lot of advice, which I recorded in my thesis.
+I optimized the game and fixed some sound confusion issues. I asked a friend to play this game, and they all gave me a lot of advice, which I recorded in my thesis. I added a lot of interactive objects, and then used GarageBand to create a lot of sound effects and added them to the game. 
+
+Then I edited the video.
 
