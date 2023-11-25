@@ -379,6 +379,18 @@ Create an empty object and set its name to Waypoint. Drag the Waypoint's positio
 
 ## 😈Week 11 Peom and Scene
 
+    void Start()
+    {
+        audioSource = GetComponent<AudioSource>();
+    }
+
+    void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("Player")) 
+        {
+            audioSource.Play();
+        }
+    }
 
 
 I wrote a little poem to serve as the narration for the game. The audio source will play when within a specific range of the player's computer.
