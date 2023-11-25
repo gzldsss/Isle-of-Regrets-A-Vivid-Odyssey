@@ -379,7 +379,9 @@ Create an empty object and set its name to Waypoint. Drag the Waypoint's positio
 
 ## 😈Week 11 Peom and Scene
 
-I wrote a little poem to serve as the narration for the game.
+
+
+I wrote a little poem to serve as the narration for the game. The audio source will play when within a specific range of the player's computer.
 
 >欢迎你，我的朋友。
 >欢迎您来到我的世界。
